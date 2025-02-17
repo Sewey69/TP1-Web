@@ -1,0 +1,17 @@
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    gap: 10px;
+}
+
+#write {
+    width: 60%;
+    height: 500px; 
+    display: block;
+    margin: 0 auto;
+    padding: 5px; 
+    text-align: left;
+    line-height: normal;
+}
